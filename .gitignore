@@ -483,6 +483,8 @@ $RECYCLE.BIN/
 # Vim temporary swap files
 *.swp
 API/reactivities.db
+*.db-wal
+*.db-shm
 API/appsettings.json
 CourseAssets/Reactivities.postman_collection.json
 
