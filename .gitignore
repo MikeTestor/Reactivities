@@ -485,6 +485,5 @@ $RECYCLE.BIN/
 API/reactivities.db
 API/appsettings.json
 CourseAssets/Reactivities.postman_collection.json
-*.db-wal
-*.db-shm
+
 
