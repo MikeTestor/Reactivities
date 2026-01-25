@@ -11,3 +11,5 @@ I've used this as a training to sharpen my knowledge on Asp.net and React. A lot
 
 I made notes for all of these (and maby more) subjects. Those notes are avaiable as .md files in the *Learning* subdirectory.
 
+Jemic-softMike is also here :-)
+
