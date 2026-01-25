@@ -13,3 +13,4 @@ I made notes for all of these (and maby more) subjects. Those notes are avaiable
 
 Jemic-softMike is also here :-)
 
+Forking and branches training
